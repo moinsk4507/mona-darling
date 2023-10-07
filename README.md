@@ -1,1 +1,5 @@
-# mona-darling
+#include<stdio.h>
+void main()
+{
+printf(" mona darling...!!!"")
+}
